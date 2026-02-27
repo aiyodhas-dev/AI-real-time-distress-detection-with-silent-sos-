@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Distress Detection \u0026 Silent SOS",
+  "description": "An AI-driven safety system that detects distress via facial/voice analysis and manages a multi-stage emergency escalation protocol.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
